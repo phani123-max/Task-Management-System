@@ -1,5 +1,5 @@
 import React from 'react';
-import { TaskProvider } from '../../context/TaskContext';
+import { TaskProvider } from '../context/TaskContext';
 import TaskForm from './TaskForm.jsx';
 import TaskList from './TaskList.jsx';
 
